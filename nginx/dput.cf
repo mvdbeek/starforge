@@ -1,6 +1,6 @@
 [ppa:m-vandenbeek/nginx-upload-store]
 fqdn = ppa.launchpad.net
-method = ftp
+method = sftp
 incoming = ~m-vandenbeek/ubuntu/nginx-upload-store/
-login = anonymous
+login = m-vandenbeek
 allow_unsigned_uploads = 0
